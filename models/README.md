@@ -14,7 +14,7 @@ Due to the large size of trained model files, they are stored on Google Drive in
 - **Architecture:** DistilBERT (Transformer-based)
 - **Training Data:** News Category Dataset v3
 - **Number of Classes:** 42
-- **📥 Download Model & Results:** [Google Drive Folder](https://drive.google.com/drive/folders/1iUhXh7hD7mwyls7YZiMLPw8IsX89qcHY?usp=drive_link)
+- **📥 Download Model & Results:** [Google Drive Folder](https://drive.google.com/drive/folders/18dsMSWX6r_LyzVxVx8qgYzX63fCykr03?usp=drive_link)
   - This folder contains the trained model weights, configuration files, training results, and performance metrics
   - Download the entire folder to access the complete model and results
 - **File Size:** ~250 MB
