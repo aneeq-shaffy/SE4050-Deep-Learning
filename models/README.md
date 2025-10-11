@@ -14,17 +14,15 @@ Due to the large size of trained model files, they are stored on Google Drive in
 - **Architecture:** DistilBERT (Transformer-based)
 - **Training Data:** News Category Dataset v3
 - **Number of Classes:** 42
-- **Performance:** 
-  - Accuracy: TBD
-  - F1 Score: TBD
-- **Google Drive Link:** [Add your link here]
+- **📥 Download Model & Results:** [Google Drive Folder](https://drive.google.com/drive/folders/1iUhXh7hD7mwyls7YZiMLPw8IsX89qcHY?usp=drive_link)
+  - This folder contains the trained model weights, configuration files, training results, and performance metrics
+  - Download the entire folder to access the complete model and results
 - **File Size:** ~250 MB
 - **Files Included:**
-  - `config.json` - Model configuration
-  - `model.safetensors` - Trained model weights
-  - `tokenizer_config.json` - Tokenizer configuration
-  - `vocab.txt` - Vocabulary file
-  - `special_tokens_map.json` - Special tokens mapping
+  - Trained model weights and configuration
+  - Training history and checkpoints
+  - Performance metrics and evaluation results
+  - Confusion matrices and visualizations
 
 ### 2. LSTM News Classifier
 - **Architecture:** LSTM (Recurrent Neural Network)
