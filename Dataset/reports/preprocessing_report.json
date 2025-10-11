@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-10-11 15:01:27",
+  "dataset_info": {
+    "total_articles": 30000,
+    "n_categories": 15,
+    "categories": [
+      "ENTERTAINMENT",
+      "FAMILY",
+      "SPORTS",
+      "POLITICS",
+      "CRIME",
+      "WELLNESS",
+      "BUSINESS",
+      "LIFESTYLE",
+      "FOOD",
+      "QUEER_VOICES",
+      "WOMEN",
+      "BLACK_VOICES",
+      "TRAVEL",
+      "IMPACT",
+      "WORLDPOST"
+    ],
+    "vocab_size": 34031
+  },
+  "quality_metrics": {
+    "Completeness": 100.0,
+    "Uniqueness": 99.98,
+    "Class Balance": 100.0,
+    "Valid Length": 100.0
+  },
+  "overall_score": 99.995
+}

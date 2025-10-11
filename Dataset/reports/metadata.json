@@ -1,0 +1,25 @@
+{
+  "n_classes": 15,
+  "classes": [
+    "BLACK_VOICES",
+    "BUSINESS",
+    "CRIME",
+    "ENTERTAINMENT",
+    "FAMILY",
+    "FOOD",
+    "IMPACT",
+    "LIFESTYLE",
+    "POLITICS",
+    "QUEER_VOICES",
+    "SPORTS",
+    "TRAVEL",
+    "WELLNESS",
+    "WOMEN",
+    "WORLDPOST"
+  ],
+  "vocab_size": 34031,
+  "train_size": 21000,
+  "val_size": 4500,
+  "test_size": 4500,
+  "preprocessing_date": "2025-10-11 15:01:26"
+}
