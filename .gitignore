@@ -40,6 +40,10 @@ wheels/
 *.onnx
 *.tflite
 
+# Allow specific preprocessed files
+!Dataset/processed/data_splits.pkl
+!Dataset/encoders/label_encoder.pkl
+
 # Data files (uncomment if needed)
 # *.csv
 # *.json
