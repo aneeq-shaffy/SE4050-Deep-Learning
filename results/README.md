@@ -9,5 +9,6 @@ Training results, metrics, and performance analysis.
 
 Contains: Training history, metrics, confusion matrices, plots, checkpoints
 
-### Other Models
-Results for LSTM, Hierarchical CNN, and Multi-Channel CNN will be added after training.
+### Hierarchical_CNN_News_Classifier
+**📥 Download:** [Google Drive](https://drive.google.com/file/d/15c0CJ0vgUNEQ2ZfurfAquZcTnI5bTRdK/view?usp=drive_link)
+Contains: Training history, metrics, confusion matrices, plots, checkpoints
