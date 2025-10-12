@@ -12,7 +12,8 @@ Model files are stored on Google Drive due to size limitations.
 - **📥 Download:** [Add link here]
 
 ### 3. Hierarchical CNN News Classifier
-- **📥 Download:** [Add link here]
+- **📥 Download:** [Google Drive](https://drive.google.com/drive/folders/1Lto_ZFuRdx765I6RNCegC7s-XIoic-cQ?usp=drive_link)
+- Contains: Model architecture and weights, tokenizer mapping, label mapping, model configuration, and test results with evaluation metrics.
 
 ### 4. Multi-Channel CNN with Attention
 - **📥 Download:** [Add link here]
